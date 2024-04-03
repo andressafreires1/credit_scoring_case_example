@@ -1,6 +1,5 @@
 # Databricks notebook source
 # MAGIC %md
-# MAGIC ### Projeto: Score PF - Application Visão Carteira
 # MAGIC 
 # MAGIC ###### Tópicos que serão tratados neste notebook:
 # MAGIC 
@@ -13,7 +12,6 @@
 # MAGIC       b. Score C2BA <= 360 e C2BA > 360 = Corte de produção, devido a compra da base Serasa pelo Banco Original.
 # MAGIC       c. Idade <= 25 anos e > 25 anos
 # MAGIC 
-# MAGIC ##### Owners: @Jeobara e @João Dias
 # MAGIC ##### Equipe: DS Credit
 
 # COMMAND ----------
