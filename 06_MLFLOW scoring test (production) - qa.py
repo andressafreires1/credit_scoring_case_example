@@ -1,6 +1,5 @@
 # Databricks notebook source
 # MAGIC %md
-# MAGIC ### Projeto: Score PF - Application Visão Carteira
 # MAGIC 
 # MAGIC ###### Tópicos que serão tratados neste notebook:
 # MAGIC 
@@ -8,7 +7,6 @@
 # MAGIC - 2) Aplicação do modelo final 
 # MAGIC - 3) Salvs modelo objeto no MLFlow
 # MAGIC 
-# MAGIC ##### Owners: @Jeobara e @João Dias
 # MAGIC ##### Equipe: DS Credit
 
 # COMMAND ----------
