@@ -1,6 +1,5 @@
 # Databricks notebook source
 # MAGIC %md
-# MAGIC ### Projeto: Score PF - Application Visão Carteira
 # MAGIC 
 # MAGIC ###### Tópicos que serão tratados neste notebook:
 # MAGIC 
@@ -8,7 +7,6 @@
 # MAGIC - 2) Aplicação dos melhores modelos, obtidos após aplicação do método optuna. 
 # MAGIC - 3) Avaliação dos resultados em toda a base (tot, dev, val e oot)
 # MAGIC 
-# MAGIC ##### Owners: @Jeobara e @João Dias
 # MAGIC ##### Equipe: DS Credit
 
 # COMMAND ----------
